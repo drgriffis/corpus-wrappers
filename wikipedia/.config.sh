@@ -1,0 +1,5 @@
+INFILE=
+TMPFILE=${INFILE}.tmp
+OUTFILE=
+PY=python
+PRL=perl
